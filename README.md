@@ -6,12 +6,6 @@ This is the experiment and plotting code repository for the (in review) paper,
 ## The AMT-pilot dataset
 The annotaions gathered in this work by Cheng-i Wang should be referred to as the ''AMT-pilot'' database. This dataset contains AMT annotations on 8 songs from Beatles-TUT and SALAMI. 
 
-## Error Corrections
-
-1. Figure 2(b) should be ''Out in the Cold'' from Carole King instead of ''Black or White'' from Michael Jackson.
-2. In Table 3, 4 and 5, ''Out in the Cold'' and ''Black or White'' are misplaced with each other.
-3. The titles for Figure 3(b) and Figure 3(b) are misplaced between ''Out in the Cold'' and ''Black or White''. 
-
 ## Code Summaries
 
 ### caqe_boundary python module
