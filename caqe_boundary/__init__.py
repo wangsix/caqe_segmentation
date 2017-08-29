@@ -7,5 +7,5 @@ app = Flask('caqe_boundary')
 Bootstrap(app)
 db = SQLAlchemy(app)
 
-app.config['SQLALCHEMY_DATABASE_URI'] = "postgres://wangsix:Six0420!@localhost/segmentation_beatles"
+app.config['SQLALCHEMY_DATABASE_URI'] = "postgres://USERNAME:PASSWORD@localhost/segmentation_beatles"
 
