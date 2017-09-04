@@ -1,7 +1,7 @@
 # caqe_segmentation
 
-This is the experiment and plotting code repository for the (in review) paper, 
-''Re-visiting the Music Segmentation Problem with Crowdsourcing'', submitted to ISMIR2017.
+This is the experiment and plotting code repository for the paper, 
+''Re-visiting the Music Segmentation Problem with Crowdsourcing'', accepted to ISMIR2017 at Suzhou, China.
 
 ## The AMT-pilot dataset
 The annotaions gathered in this work by Cheng-i Wang should be referred to as the ''AMT-pilot'' database. This dataset contains AMT annotations on 8 songs from Beatles-TUT and SALAMI. 
